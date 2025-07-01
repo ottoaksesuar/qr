@@ -9,7 +9,7 @@
   <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; font-family: sans-serif; ">
 
   <!-- Можешь заменить или вставить свой логотип -->
-  <img src="go print.png" alt="GoPrint Logo" style="position: relative; display: flex; align-items: center; justify-content: center; width: auto; height: 120px; padding: 15px;">
+  <img src="LOGO OTTO.png" alt="GoPrint Logo" style="position: relative; display: flex; align-items: center; justify-content: center; width: auto; height: 120px; padding: 15px;">
 
   <h1 style="margin-bottom: -10px; margin-top: -10px;">OTTO – Магазин аксесуаров для авто и мото</h1>
   <p>Здесь начинается забот о вашем авто и мото!</p>
