@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Типография – GoPrint</title>
+</head>
+<body>  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; font-family: sans-serif; ">
+
+  <!-- Можешь заменить или вставить свой логотип -->
+  <img src="go print.png" alt="GoPrint Logo" style="position: relative; display: flex; align-items: center; justify-content: center; width: auto; height: 120px; padding: 15px;">
+
+  <h1 style="margin-bottom: -10px; margin-top: -10px;">Типография – GoPrint</h1>
+  <p>Качество, скорость и подход!</p>
+    
+  <!-- Gmail -->
+  <a href="mailto:goprint.kg@gmail.com" target="_blank"
+     style="position: relative; display: flex; align-items: center; justify-content: center; width: 300px; padding: 26px 16px; border: 1.5px solid #ccc; border-radius: 8px;
+    text-decoration: none; color: #1B0946; background-color: #fff; font-size: 24px; font-weight: bold;">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"
+         style="position: absolute; left: 12px; width: 44px;">
+    Gmail
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/996990906088" target="_blank"
+     style="position: relative; display: flex; align-items: center; justify-content: center; width: 300px; padding: 26px 16px; border: 1.5px solid #ccc; border-radius: 8px;
+    text-decoration: none; color: #1B0946; background-color: #fff; font-size: 24px; font-weight: bold;">
+    <img src="free-icon-whatsapp-4423697.png" alt="WhatsApp"
+         style="position: absolute; left: 12px; width: 44px;">
+    WhatsApp
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/goprint_kg/" target="_blank"
+     style="position: relative; display: flex; align-items: center; justify-content: center; width: 300px; padding: 26px 16px; border: 1.5px solid #ccc; border-radius: 8px;
+    text-decoration: none; color: #1B0946; background-color: #fff; font-size: 24px; font-weight: bold;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram"
+         style="position: absolute; left: 12px; width: 44px;">
+    Instagram
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/+996990906088" target="_blank"
+     style="position: relative; display: flex; align-items: center; justify-content: center; width: 300px; padding: 26px 16px; border: 1.5px solid #ccc; border-radius: 8px;
+    text-decoration: none; color: #1B0946; background-color: #fff; font-size: 24px; font-weight: bold;">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"
+         style="position: absolute; left: 12px; width: 44px;">
+    Telegram
+  </a>
+
+</div>
+    
+</body>
+</html>
