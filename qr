@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Типография – GoPrint</title>
+  <title>OTTO – Магазин аксесуаров для авто и мото</title>
 </head>
 <body>  
   <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; font-family: sans-serif; ">
@@ -11,11 +11,11 @@
   <!-- Можешь заменить или вставить свой логотип -->
   <img src="go print.png" alt="GoPrint Logo" style="position: relative; display: flex; align-items: center; justify-content: center; width: auto; height: 120px; padding: 15px;">
 
-  <h1 style="margin-bottom: -10px; margin-top: -10px;">Типография – GoPrint</h1>
-  <p>Качество, скорость и подход!</p>
+  <h1 style="margin-bottom: -10px; margin-top: -10px;">OTTO – Магазин аксесуаров для авто и мото</h1>
+  <p>Здесь начинается забот о вашем авто и мото!</p>
     
   <!-- Gmail -->
-  <a href="mailto:goprint.kg@gmail.com" target="_blank"
+  <a href="mailto:ottoaksesuar.kg@gmail.com" target="_blank"
      style="position: relative; display: flex; align-items: center; justify-content: center; width: 300px; padding: 26px 16px; border: 1.5px solid #ccc; border-radius: 8px;
     text-decoration: none; color: #1B0946; background-color: #fff; font-size: 24px; font-weight: bold;">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"
@@ -24,7 +24,7 @@
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/996990906088" target="_blank"
+  <a href="https://wa.me/+996990650988" target="_blank"
      style="position: relative; display: flex; align-items: center; justify-content: center; width: 300px; padding: 26px 16px; border: 1.5px solid #ccc; border-radius: 8px;
     text-decoration: none; color: #1B0946; background-color: #fff; font-size: 24px; font-weight: bold;">
     <img src="free-icon-whatsapp-4423697.png" alt="WhatsApp"
@@ -33,7 +33,7 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/goprint_kg/" target="_blank"
+  <a href="https://www.instagram.com/ottoaksesuar.kg/" target="_blank"
      style="position: relative; display: flex; align-items: center; justify-content: center; width: 300px; padding: 26px 16px; border: 1.5px solid #ccc; border-radius: 8px;
     text-decoration: none; color: #1B0946; background-color: #fff; font-size: 24px; font-weight: bold;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram"
@@ -42,7 +42,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/+996990906088" target="_blank"
+  <a href="https://t.me/+996990650988" target="_blank"
      style="position: relative; display: flex; align-items: center; justify-content: center; width: 300px; padding: 26px 16px; border: 1.5px solid #ccc; border-radius: 8px;
     text-decoration: none; color: #1B0946; background-color: #fff; font-size: 24px; font-weight: bold;">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"
